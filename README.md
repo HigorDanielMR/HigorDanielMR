@@ -23,4 +23,3 @@ Procuro sempre aprender coisas novas e realizar novos desafios, desejo um dia se
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-![snake gif](https://github.com/HigorDanielMR/HigorDanielMR/blob/output/github-contribution-grid-snake.svg)
