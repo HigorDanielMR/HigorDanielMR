@@ -1,8 +1,7 @@
-
 ### Olá! Eu sou o Higor Daniel👋🏾
 
-Tenho 18 anos, sou estudante de Sistemas de informação, , estou no 2° período da faculdade.
-Procuro sempre aprender coisas novas e realizar novos desafios, desejo um dia ser um FullStack, mais estou sempre aberto a novas aventuras e aprendizados.
+Tenho 18 anos, sou estudante de Sistemas de informação, estou no 2° período da faculdade.
+Procuro sempre aprender coisas novas e realizar novos desafios, desejo um dia ser um FullStack, mais estou aberto a novas aventuras e aprendizados.
 
 ### Tecnologias que utilizo no meu dia a dia:
 
