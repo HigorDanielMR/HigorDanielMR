@@ -13,6 +13,7 @@ Procuro sempre aprender coisas novas e realizar novos desafios, desejo um dia se
 </div>
 
 ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorDanielMR&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorDanielMR&layout=compact&theme=dark)
 
 ### Tecnologias que estou estudando:
 
@@ -21,5 +22,3 @@ Procuro sempre aprender coisas novas e realizar novos desafios, desejo um dia se
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorDanielMR&layout=donut)](https://github.com/HigorDanielMR/github-readme-stats)
